@@ -7,7 +7,7 @@ version: v0.2
 
 baseurl: ""
 permalink: /:slug/
-logo: /assets/logo_dmr99.png
+logo: /assets/demanejar_shorturl_optimized.png
 
 theme: jekyll-theme-minimal
 
